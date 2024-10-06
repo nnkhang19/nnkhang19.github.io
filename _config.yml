@@ -21,7 +21,7 @@ repository               : "nnkhang19/nnkhang19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.jpg"
   name             : "Khang Ngo"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"

@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-** Updates ** 
+Updates 
+======
 
-** Research interests**
+Research interests
+======
